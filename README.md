@@ -21,3 +21,5 @@ Our group members include:
 
 Our advisor:
 - Dr. Phan Thanh Hien & Mai Nhu Tin (Vietnam)
+
+The data is acquired at the Quy Nhơn Observatory (Vietnam)
