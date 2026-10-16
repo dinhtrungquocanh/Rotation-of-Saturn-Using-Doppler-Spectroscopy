@@ -13,3 +13,11 @@ About the notebooks:
 Further references for our codes:
 https://learn.astropy.org/tutorials/1_SpectroscopicTraceTutorial.html
 
+Our group members include:
+- Đinh Trung Quốc Anh - International University, VNU - HCM, Vietnam
+- Phạm Nhất Thuyết - CASE, Vietnam National Space Center, Vietnam
+- Shiyana Hendry - Thiagarajar College, India
+- Vardges Grigoryan - BAO & YSU, Armenia 
+
+Our advisor:
+- Dr. Phan Thanh Hien & Mai Nhu Tin (Vietnam)
