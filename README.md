@@ -23,3 +23,5 @@ Our advisor:
 - Dr. Phan Thanh Hien & Mai Nhu Tin (Vietnam)
 
 The data is acquired at the Quy Nhơn Observatory (Vietnam)
+
+Note: the wavelength calibration and the dispersion rate were derived from Demetra software. 
