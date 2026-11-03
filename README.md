@@ -1,4 +1,7 @@
 # Rotation-of-Saturn-Using-Doppler-Spectroscopy
+
+<img width="1600" height="900" alt="saturn_slit_1" src="https://github.com/user-attachments/assets/b57d37f5-f426-489b-bf6a-00e16aa21ec5" />
+
 This is the project for Group S3 at the 48th International School for Young Astronomers.
 The Notebooks were run on Google Colab. Here is the Google Drive Link for the Data: https://drive.google.com/drive/folders/1TRIvXDKh0F0ilQb-Xv-K01bL30EvR_lA?usp=sharing
 
