@@ -22,8 +22,8 @@ Our group members include:
 - Shiyana Hendry - Thiagarajar College, India
 - Vardges Grigoryan - BAO & YSU, Armenia 
 
-Our advisor:
-- Dr. Phan Thanh Hien & Mai Nhu Tin (Vietnam)
+Our advisors:
+- Dr. Phan Thanh Hien & MSc. Mai Nhu Tin (Vietnam)
 
 The data is acquired at the Quy Nhơn Observatory (Vietnam)
 
